@@ -50,17 +50,17 @@ currency = "$"
 
 # promotion
 [promotion]
-title = "Create Stunning Website!!"
+title = "Visit our Reverb Shop"
 content = "Lorem ipsum dolor sit amet, consectetur sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit ornare."
 image = "images/promotion.jpg"
-button_label = "Get Started"
-button_link = "https://themefisher.com/"
+button_label = "Shop Now"
+button_link = "https://reverb.com/shop/legendary-guitars-usa"
 
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
-keywords = ["Boilerplate", "Hugo", "Themefisher", "GetHugoThemes"]
-description = "This is meta description"
-author = "Themefisher"
+keywords = ["Guitar", "Collection", "Historic", "Vintage", "History", "Rock and Roll", "Instruments"]
+description = "A family-owned retailer best known for our Legendary Collection - guitars amps and effects owned and used by Eric Clapton, Jerry Garcia, Carlos Santana, Eric Johnson and others. We also offer a wide variety of high-end, accessibly-priced guitars and accessories."
+author = "Legendary Guitars"
 image = "images/favicon.png"                                       # this image will be used as fallback if a page has no image of its own
 
 # matomo tracking: see https://matomo.org/
@@ -103,13 +103,11 @@ button = "I Accept"
 [widgets]
 sidebar = [
   "search",
-  "about-me",
   "promotion",
   "subscription",
   "categories",
   "recent-post",
   "tags",
-  "social",
 ]
 # available widget : search,about-me,categories,tags,recent-post,social,promotion,subscription
 
