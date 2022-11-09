@@ -17,3 +17,5 @@ Despite not being a success in those particular areas, the unusual guitar—firs
 The Jazzmaster is longer and heavier due to its offset-waist design, which makes the guitar more pleasantly playable and balanced while seated. It is sleekly curvy and curved like a Stratocaster.
 
 The original Jazzmaster was the first Fender instrument to have two distinct tone circuits, and it featured a floating bridge/anchored tailpiece design, floating vibrato and tremolo-locking system, and distinctive single-coil pickups connected into a completely new control arrangement.
+
+Jazzmaster
