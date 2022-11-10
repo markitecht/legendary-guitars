@@ -33,28 +33,6 @@
           {{ end }}
         </ul>
 
-        <!-- Language List -->
-        {{ if .IsTranslated }}
-        <select class="m-2 border-0" id="select-language" onchange="location = this.value;">
-          {{ $siteLanguages := site.Languages}}
-          {{ $pageLang := .Page.Lang}}
-          {{ range .Page.AllTranslations }}
-          {{ $translation := .}}
-          {{ range $siteLanguages }}
-          {{ if eq $translation.Lang .Lang }}
-          {{ $selected := false }}
-          {{ if eq $pageLang .Lang}}
-          <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}" selected>{{ .LanguageName }}
-          </option>
-          {{ else }}
-          <option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}">{{ .LanguageName }}</option>
-          {{ end }}
-          {{ end }}
-          {{ end }}
-          {{ end }}
-        </select>
-        {{ end }}
-
         {{ if site.Params.search }}
         {{ "<!-- search -->" | safeHTML }}
         <div class="search pl-0 mt-3 mt-lg-0 pl-lg-4">
