@@ -2,13 +2,10 @@
 {{ if site.Params.subscription.enable }}
 {{ with site.Params.subscription }}
 <div class="widget">
-  <h5 class="widget-title"><span>{{ i18n "subscribe_newsletter" }}xfsdfwsf</span></h5>
-  <form action="{{ .mailchimp_form_action }}" method="get" name="mc-embedded-subscribe-form" target="_blank"
-    class="widget-search">
-    <button type="submit" class="btn btn-primary" name="subscribe" aria-label="Subscribe to Newsletter"><i class="fas fa-paper-plane"></i></button>
-    <!-- <div style="position: absolute; left: -5000px;" aria-hidden="true">
-      <input type="text" name="{{ .mailchimp_form_name }}" tabindex="-1">
-    </div>-->
+  <h5 class="widget-title"><span>{{ i18n "subscribe_newsletter" }}</span></h5>
+  <form action="{{ .mailchimp_form_action }}" method="get" target="_blank">
+    <button class="btn btn-primary btn-block rounded" type="submit"
+            name="subscribe">{{ i18n "subscribe"}}</button>
   </form>
 </div>
 {{ end }}

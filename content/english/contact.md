@@ -1,11 +1,9 @@
 ---
-title: "Talk To Me Anytime :)"
+title: "Talk To Us Anytime"
 # description
-description: "This is meta description"
+description: "Contact Legendary Guitars"
 layout: "contact"
 draft: false
 ---
 
-# Ask Us Anything <br> Or just Say Hi,
-
-Rather than just filling out a form, Sleeknote also offers help to the user <br> with links directing them to find  additional information or take popular actions.
+# Contact us to learn about availability of collector-level items, or to ask questions of any kind or just to say hi :)

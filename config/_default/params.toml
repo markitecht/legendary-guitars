@@ -11,7 +11,7 @@ page_not_found_image = "images/404.png" # 404 error page image
 # image gallery shortcode
 image_gallery = true
 # email address
-email = "markitecht@gmail.com"
+email = "contact@legendaryguitars.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # search

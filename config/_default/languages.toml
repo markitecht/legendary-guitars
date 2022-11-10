@@ -8,11 +8,3 @@ weight = 1
 footer_content = "A family-owned retailer best known for our Legendary Collection - guitars amps and effects owned and used by Eric Clapton, Jerry Garcia, Carlos Santana, Eric Johnson and others. We also offer a wide variety of high-end, accessibly-priced guitars and accessories."
 
 
-################################### French language #####################################
-[fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-# footer content
-footer_content = "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."

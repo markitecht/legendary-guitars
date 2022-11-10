@@ -28,7 +28,7 @@
 - id: name
   translation: Your Name
 
-- id: email 
+- id: email
   translation: Your Email Address
 
 - id: message
@@ -41,7 +41,7 @@
   translation: Hate Forms? Write Us Email
 
 - id: subscribe_newsletter
-  translation: Subscribe Newsletter
+  translation: Subscribe to Our Newsletter
 
 - id: quick_links
   translation: Quick Links
