@@ -38,8 +38,9 @@ preloader = "" # use jpg, png, svg or gif format.
 [subscription]
 enable = true
 # mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"                                                           # replace this code with yours
+# mailchimp_form_action = "https://legendaryguitars.us9.list-manage.com/subscribe/post?u=6b310e78dd8a6364cf031d114&id=f79cf75e8b"
+mailchimp_form_action = "http://eepurl.com/idotST" # replace this url with yours
+mailchimp_form_name = "b_6b310e78dd8a6364cf031d114_f79cf75e8b"                                                           # replace this code with yours
 
 # snipcart for shop
 [snipcart]
@@ -51,7 +52,7 @@ currency = "$"
 # promotion
 [promotion]
 title = "Visit our Reverb Shop"
-content = "Lorem ipsum dolor sit amet, consectetur sociis. Etiam nunc amet id dignissim. Feugiat id tempor vel sit ornare."
+content ="We offer a wide variety of high-end, accessibly-priced guitars and accessories."
 image = "images/promotion.jpg"
 button_label = "Shop Now"
 button_link = "https://reverb.com/shop/legendary-guitars-usa"

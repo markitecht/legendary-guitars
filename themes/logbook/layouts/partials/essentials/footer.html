@@ -27,17 +27,17 @@
       <div class="col-md-3 mb-4">
         <h6 class="mb-4">{{i18n "subscribe_newsletter"}}</h6>
         {{ with site.Params.subscription }}
-        <form class="subscription" action="{{ .mailchimp_form_action }}" method="post" name="mc-embedded-subscribe-form"
+        <form class="subscription" action="{{ .mailchimp_form_action }}" method="get" name="mc-embedded-subscribe-form"
           target="_blank">
-          <div class="position-relative">
+          <!--<div class="position-relative">
             <i class="fas fa-envelope email-icon"></i>
-            <input type="email" class="form-control" placeholder="{{ i18n `email`}}">
-          </div>
+            <input type="email" class="form-control" placeholder="{{ i18n `email`}}" >
+          </div>-->
           <button class="btn btn-primary btn-block rounded" type="submit"
             name="subscribe">{{ i18n "subscribe"}}</button>
-          <div style="position: absolute; left: -5000px;" aria-hidden="true">
+          <!--<div style="position: absolute; left: -5000px;" aria-hidden="true">
             <input type="text" name="{{ .mailchimp_form_name }}" tabindex="-1">
-          </div>
+          </div>-->
         </form>
         {{ end }}
       </div>
