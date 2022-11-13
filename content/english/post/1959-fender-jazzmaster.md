@@ -5,7 +5,7 @@ date = 2020-03-14T09:40:24Z
 description = "Fender released a then-unusual electric guitar that became an icon of modern indie and alternative rock. Here is its full story."
 images = ["images/post/jazzmaster.jpg"]
 tags = ["fender", "jazzmaster", "1950s", "1960s", "1970s"]
-title = "History of the Fender Jazzmaster"
+title = "Courageous Contours: The History of the Fender Jazzmaster"
 type = "featured"
 
 +++
