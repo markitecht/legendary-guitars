@@ -8,9 +8,19 @@ layout: "about"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi, posuere ultrices tempus. Feugiat consequat suspendisse laoreet vitae enim adipiscing cursus. Duis nunc vitae tincidunt sed nibh id. Egestas erat consequat, ornare etiam donec faucibus. Lorem ut enim nunc, senectus adipiscing sed. Lobortis commodo aliquet pulvinar molestie faucibus diam. Semper porttitor, et dictum
+The opportunity to experience creative bliss, or monumental history, or the pinnacle of hand craftsmanship ... any single one of these is a special human experience beyond words.
 
-Faucibus duis urna, consequat morbi imperdiet pulvinar. Mauris vitae sed aliquet eu tincidunt id. Nulla leo eget erat vel pharetra. Morbi nullam morbi non purus, augue. Massa cras odio ante cursus a mauris. Volutpat faucibus feugiat feugiat euismod congue ridiculus. Et ipsum euismod nulla et aenean diam duis. Sem molestie est mauris sit. Et eleifend odio
+As guitar players we have a chance to experience all three at once.
+
+When a truly iconic instrument touches our hands, our lives change forever.
+
+Is it about the history of the courageous innovation that led to a particular instrument's now-iconic shape? Maybe. Is it about the aging wood, glue, nitro-cellulose finish, the way an instrument breathes in life as it breathes out water? Probably. Is it about the stories of the people who played that guitar, how that instrument gave them a voice and allowed them to inspire and change the lives of millions? Certainly yes.
+
+Welcome to Legendary Guitars. Our mission is to curate, research and make accessible these instruments of, well, legend.
+
+We are anchored by the Legendary Collection, instruments amps and effects owned by Eric Clapton, Jerry Garcia, Carlos Santana, Eric Johnson, and others.
+
+This site is in service to you, dear reader, that you may learn as we have learned about these amazing pieces of history. We also offer a retail store through [reverb.com](https://reverb.com/shop/legendary-guitars-usa) - visit us and pick up something that will brighten your spirits and lift your creative journey to a higher level!
 
 {{< quote by="Eric Clapton" >}}
 Every time you pick up your guitar to play, play as if it's the last time.
