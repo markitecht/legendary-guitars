@@ -3,7 +3,6 @@ author = "The Curator"
 categories = ["Guitars"]
 date = 2022-11-01T04:00:00Z
 description = "The technicians at Alembic experimented frequently under the direction of former LSD chemist and Dead sound expert Owsley Stanley, and Garcia's Strat frequently appeared on the Alembic workbench."
-draft = true
 images = ["/images/post/jerry-garcia-alligator.jpg"]
 tags = ["1970s", "Stratocaster", "Jerry Garcia"]
 title = "Store-bought Strat Becomes Counter-culture Legend"
