@@ -3,7 +3,6 @@ author = "The Curator"
 categories = ["Guitars"]
 date = 2022-11-15T05:00:00Z
 description = "The Telecaster may well be the most important electric guitar of all time. Here is the entire history from its origins to its future."
-draft = true
 images = ["/images/post/telecaster.jpg"]
 tags = ["1950s", "1980s", "1970s", "1960s", "history", "telecaster"]
 title = "Indispensable & Epic: The Complete History of the Telecaster"
