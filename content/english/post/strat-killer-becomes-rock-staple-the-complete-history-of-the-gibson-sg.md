@@ -3,7 +3,6 @@ author = "The Curator"
 categories = ["Guitars"]
 date = 2022-11-16T05:00:00Z
 description = "A complete history of the solidbody rock and roll staple from Gibson, the SG."
-draft = true
 images = ["/images/post/gibson-sg.jpg"]
 tags = ["SG", "Gibson"]
 title = "Strat-killer Becomes Rock Staple: The Complete History of the Gibson SG"
