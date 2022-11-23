@@ -30,7 +30,7 @@ Going back to the story of Izabella, Jimi still needed a few modifications to pe
 
 **Features Of Jimi Hendrix’s Izabella**
 
-Since the guitar is a left-handed design, a right-handed player would see the strings strung in the wrong direction. The Fender white Stratocaster Izabella had a vintage design. It came with a two-piece maple neck and had no skunk stripe. Additionally, it had a truss rod adjustment at the heel. The guitar was a 1968 Olympic White Strat. The "F style" neck plate, along with the pickups and hardware, all bore the standard 1968, with the production serial number 240981.
+The Fender white Stratocaster Izabella had a vintage design. It came with a two-piece maple neck and had no skunk stripe. Additionally, it had a truss rod adjustment at the heel. The guitar was a 1968 Olympic White Strat. The "F style" neck plate, along with the pickups and hardware, all bore the standard 1968, with the production serial number 240981.
 
 The [features](https://www.themusiczoo.com/products/fender-custom-shop-jimi-hendrix-stratocaster-izabella-limited-edition-olympic-white) of the reissued Stratocaster Izabella include:
 
