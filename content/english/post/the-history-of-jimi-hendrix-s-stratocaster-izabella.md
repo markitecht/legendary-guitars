@@ -3,7 +3,6 @@ author = "The Curator"
 categories = ["Guitars"]
 date = 2022-11-23T05:00:00Z
 description = "Jimi Hendrix's famous white Stratocaster that made history at Woodstock"
-draft = true
 images = ["/images/post/jimi-hendrix-izabella.jpg"]
 tags = ["Stratocaster", "Fender", "1970s", "Woodstock", "Jimi Hendrix"]
 title = "The History Of Jimi Hendrix's Stratocaster \"Izabella\""
