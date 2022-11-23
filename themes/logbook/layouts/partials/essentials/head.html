@@ -20,6 +20,8 @@
 <link rel="alternate" hreflang="{{.Lang}}" href="{{ .RelPermalink | absLangURL }}">
 {{ end }}
 <link rel="alternate" hreflang="x-default" href="{{ .RelPermalink | absLangURL }}">
+{{ else }}
+<link rel="alternate" hreflang="en" href="{{ .Permalink }}" />
 {{ end }}
 
 <!-- responsive meta -->
