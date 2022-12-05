@@ -3,7 +3,6 @@ author = "The Curator"
 categories = ["Guitars"]
 date = 2022-12-05T05:00:00Z
 description = "Everything You Ever Wanted to Know about the Fender Telecaster"
-draft = true
 images = ["/images/post/telecaster-2.jpg"]
 tags = []
 title = "Tele Trivia: 20 Lesser-known Facts About the Iconic Fender Solidbody"
