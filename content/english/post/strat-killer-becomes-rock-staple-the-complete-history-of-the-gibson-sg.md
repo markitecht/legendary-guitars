@@ -6,7 +6,7 @@ description = "A complete history of the solidbody rock and roll staple from Gib
 images = ["/images/post/gibson-sg.jpg"]
 tags = ["SG", "Gibson"]
 title = "Strat-killer Becomes Rock Staple: The Complete History of the Gibson SG"
-type = "featured"
+type = ""
 
 +++
 Flexible, inspiring and flat out iconic, the SG started out as a quick counter to Fender's commercial success with the Stratocaster.
