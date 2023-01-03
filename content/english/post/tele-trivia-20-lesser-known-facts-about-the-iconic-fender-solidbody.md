@@ -6,7 +6,7 @@ description = "Everything You Ever Wanted to Know about the Fender Telecaster"
 images = ["/images/post/telecaster-2.jpg"]
 tags = []
 title = "Tele Trivia: 20 Lesser-known Facts About the Iconic Fender Solidbody"
-type = "featured"
+type = ""
 
 +++
 The Fender Musical Instruments Corporation created and manufactured the Fender Telecaster electric guitar model in the 1950s. The likes of Johnny Cash, Merle Haggard, and Bruce Springsteen have all played it, making it one of the most played guitars in history. Here are a few intriguing Telecaster-related facts:
