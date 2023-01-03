@@ -10,7 +10,9 @@ title = "Clarity & Controversy: The History of Howard Dumble and his Legendary A
 type = "feature"
 
 +++
-Howard Dumble is a legendary figure in the world of guitar amplifiers. His amplifiers, known as "Dumble" amps, are highly sought after by guitarists due to their exceptional tone and versatility. However, the history of Dumble and his amplifiers is shrouded in mystery, and the controversy surrounding his business practices has earned him a reputation as a reclusive and enigmatic figure.
+When I first started playing guitar, my brother told me "the most legendary amp in the world is a Dumble, they cost a fortune, and if you ask about your order the guy making it will cancel it." Thirty years later, I owned my first Dumble amp, and I've always been fascinated by the origin story and mythos surrounding both the amps and their enigmatic creator.
+
+Howard Dumble is a legendary figure in the world of guitar amplifiers. His amplifiers, known simply as "Dumble" amps, are highly sought after by guitarists due to their exceptional tone and versatility. However, the history of Dumble and his amplifiers is shrouded in mystery, and the controversy surrounding his business practices has earned him a reputation as a reclusive and enigmatic figure.
 
 Howard Dumble was born in 1943 in Southern California. Not much is known about his early life or education, but it is believed that he developed an interest in music and electronics at an early age. Dumble began working as a repairman for a local music store in the 1960s, where he gained a reputation for his skills in fixing and modifying amplifiers.
 
