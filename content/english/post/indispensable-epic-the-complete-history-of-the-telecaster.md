@@ -6,7 +6,7 @@ description = "The Telecaster may well be the most important electric guitar of 
 images = ["/images/post/telecaster.jpg"]
 tags = ["1950s", "1980s", "1970s", "1960s", "history", "telecaster"]
 title = "Indispensable & Epic: The Complete History of the Telecaster"
-type = "featured"
+type = ""
 
 +++
 The first people to truly appreciate how amazing the Telecaster was were the western swing guitarists who helped Leo improve his new instrument outside the factory. Early players like Jimmy Wyble, Charlie Aldrich, Jimmy Bryant, Roy Watkins, and Bill Carson embraced the instrument with missionary zeal, and Don Randall, head of Fender Sales, ensured that the Telecaster's appeal gradually but steadily spread from Southern California all the way to the East Coast through his carefully crafted sales network.
