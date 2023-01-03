@@ -3,7 +3,6 @@ author = "The Curator"
 categories = ["Amps"]
 date = 2023-01-03T05:00:00Z
 description = ""
-draft = true
 images = ["/images/post/dumble.jpg"]
 tags = ["Dumble"]
 title = "Clarity & Controversy: The History of Howard Dumble and his Legendary Amplifiers"
